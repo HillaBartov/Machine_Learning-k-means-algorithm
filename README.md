@@ -4,6 +4,7 @@ pruduce sound compression to a wav file implement the k-means algorithm on the a
 ### Run Insturctions:
 make sure you'r using Python 3.6+.
 choose your desired python file, open terminal and type:
+
 $ python <python_file> <wav_file_path> <centroinds_init_path>
 
 for example-
